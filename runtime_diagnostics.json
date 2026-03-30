@@ -1,0 +1,26 @@
+{
+  "frame": 13899,
+  "ball_position": {
+    "x": 136.146,
+    "y": 694.766
+  },
+  "ball_velocity": {
+    "x": -364.027,
+    "y": 512.246
+  },
+  "launch": {
+    "speed": 0.0,
+    "angle_degrees": 35.0,
+    "simulation_active": false
+  },
+  "attempt": {
+    "result": 0,
+    "entered_receptacle": true,
+    "settle_elapsed_seconds": 0.0,
+    "safe_receptacle_frames": 0
+  },
+  "leaderboard": {
+    "attempts": 31,
+    "successes": 7
+  }
+}

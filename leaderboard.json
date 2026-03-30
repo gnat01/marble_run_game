@@ -1,0 +1,46 @@
+{
+  "attempts": 31,
+  "successes": 7,
+  "recent_results": [
+    {
+      "attempt_number": 31,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T16:00:59.944887+00:00"
+    },
+    {
+      "attempt_number": 30,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T16:00:41.738742+00:00"
+    },
+    {
+      "attempt_number": 29,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T16:00:22.068010+00:00"
+    },
+    {
+      "attempt_number": 28,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T16:00:07.916260+00:00"
+    },
+    {
+      "attempt_number": 27,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T15:59:42.871506+00:00"
+    },
+    {
+      "attempt_number": 26,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T15:58:52.002076+00:00"
+    },
+    {
+      "attempt_number": 25,
+      "result": 0,
+      "timestamp_utc": "2026-03-30T15:58:26.745643+00:00"
+    },
+    {
+      "attempt_number": 24,
+      "result": 1,
+      "timestamp_utc": "2026-03-30T15:55:46.476698+00:00"
+    }
+  ]
+}
