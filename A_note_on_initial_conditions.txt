@@ -1,0 +1,2 @@
+This marble run game avatar has something "fun" - a sensitive dependence to initial conditions. This emerges from inexact ball positioning and other ays of the physics developing over time.
+While fun to play - do not be surprised if your success rate is LOW in this version of the game!
